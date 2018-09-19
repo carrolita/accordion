@@ -1,0 +1,23 @@
+{
+  "name": "assignment-accordion",
+  "version": "1.0.0",
+  "description": "Today we're going to learn how to make an accordion, meaning an area that can collapse to show and hide text. These are very often used on FAQ-websites – so let's build one. The FAQ-website should follow this design:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server code/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carrolita/assignment-accordion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carrolita/assignment-accordion/issues"
+  },
+  "homepage": "https://github.com/carrolita/assignment-accordion#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
